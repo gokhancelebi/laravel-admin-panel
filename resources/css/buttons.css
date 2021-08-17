@@ -1,0 +1,15 @@
+.btn-red{
+    @apply bg-red-500 text-white rounded focus:outline-none hover:bg-red-600;
+}
+
+.btn-small{
+    @apply px-4 py-2;
+}
+
+.btn-medium{
+    @apply px-6 py-4;
+}
+
+.btn-big{
+    @apply px-8 py-6;
+}
