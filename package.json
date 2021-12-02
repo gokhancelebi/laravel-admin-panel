@@ -24,6 +24,7 @@
     "dependencies": {
         "fs": "0.0.1-security",
         "path": "^0.12.7",
-        "postcss-nesting": "^8.0.1"
+        "postcss-nesting": "^8.0.1",
+        "sweetalert2": "^11.1.9"
     }
 }

@@ -13,4 +13,5 @@ class AdminMenuTable extends Model
         'columns' => 'array'
     ];
 
+
 }
